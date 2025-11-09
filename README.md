@@ -6,8 +6,8 @@ This project, developed as part of the *"Arhitectura Sistemelor de Calcul"* cour
 ---
 
 ## Project Structure
-- `132_Bogdan_Andrei_0.s` – Implementation of the **unidimensional memory management system**.  
-- `132_Bogdan_Andrei_1.s` – Implementation of the **bidimensional memory management system**.  
+- `132_Paraschiv_AndreiBogdan_0.S` – Implementation of the **unidimensional memory management system**.  
+- `132_Paraschiv_AndreiBogdan_1.S` – Implementation of the **bidimensional memory management system**.  
 
 ---
 
