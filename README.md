@@ -40,5 +40,5 @@ To execute the program, use a Linux terminal. Follow these steps:
 1. Open the terminal and navigate to the project folder.  
 2. Assemble, link, and run the **1D memory program**:
    ```bash
-   gcc -m32 132_Bogdan_Andrei_0.s -o project0 -no-pie -g
+   gcc -m32 132_Paraschiv_AndreiBogdan_0.s -o project0 -no-pie -g
    ./project0
